@@ -1,0 +1,71 @@
+.main-section{
+    width:300px;
+    background-color:#ffffff;
+    margin:90px auto 0px auto;
+    border-radius: 10px;
+    padding:30px 30px 30px;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px #e4e4e4, -5px -5px 10px #e7e2e2;
+   
+
+
+}
+.text-paragraph{
+    text-align: right;
+    padding:10px 7px;
+    margin:0 20px;
+    font-size: 20px;
+    color:purple;
+}
+.first{
+    margin-top: 20px;
+}
+.row{
+    margin-bottom:7px;
+}
+
+
+.clearAll,.clear,.division,.modulo,.nine,.eight,.seven,.multiply,.six,.five,.four,.minus,.three,.two,.one,.plus,.zero,.decimal,.equal,.theme
+{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: white;
+    border:0;
+    padding:8px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #e4e4e4, -5px -5px 10px #ffffff;
+    color:purple;
+   
+    
+    
+}
+.dark-body{
+background-color: #4d4352;
+
+
+}
+.dark-para{
+    color:#fff;
+    font-size: 20px;
+
+}
+.dark-section
+{
+    background-color: #4d4352;
+    box-shadow: 5px 5px 10px #453c49,-5px -5px 10px #554a5b;
+
+}
+.dark-input{
+    background-color: #4d4352;
+    
+}
+.dark-btn{
+    background-color: #4d4352;
+    color:#fff;
+    box-shadow: 5px 5px 10px #453c49,-5px -5px 10px #554a5b;
+}
+
+
+
